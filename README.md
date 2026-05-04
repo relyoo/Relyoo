@@ -1,5 +1,5 @@
 # Hi World! I'm Muhammad Fanny Adinata 👋
-**Informatics Student @Telkom University | Taekwondo Athlete 🥋**
+**Informatics Student @ Telkom University | Taekwondo Athlete 🥋**
 
 <p align="left">
   <a href="https://github.com/Relyoo">
@@ -29,6 +29,7 @@
 #### 🎮 Game Dev & Design
 <p align="left">
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -48,5 +49,5 @@
 
 ### 📫 Connect with Me
 <p align="left">
-<a href="https://instagram.com/mhmmd.fanny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mhmmdfanny" height="30" width="40" /></a>
+<a href="https://instagram.com/mhmmdfanny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mhmmdfanny" height="30" width="40" /></a>
 </p>
