@@ -1,5 +1,5 @@
 # Hi World! I'm Muhammad Fanny Adinata 👋
-**Informatics Student @ Telkom University | Taekwondo Athlete 🥋**
+**Informatics Student @Telkom University | Taekwondo Athlete 🥋**
 
 <p align="left">
   <a href="https://github.com/Relyoo">
