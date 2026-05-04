@@ -14,8 +14,8 @@
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 <img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=Laragon&logoColor=white" />
 
-#### My Github Stats
-![Relyoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Relyoo&show_icons=true&theme=synthwave)
+<!-- #### My Github Stats
+![Relyoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Relyoo&show_icons=true&theme=synthwave) -->
 
 
 <picture>
