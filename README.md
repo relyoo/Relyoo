@@ -1,43 +1,52 @@
-## Hi World! I'm Muhammad Fanny Adinata 👋
+# Hi World! I'm Muhammad Fanny Adinata 👋
+**Informatics Student @ Telkom University | Taekwondo Athlete 🥋**
 
-![Header](img/relyo.png)
+<p align="left">
+  <a href="https://github.com/Relyoo">
+    <img src="https://img.shields.io/badge/Cyber_Security-Cyber%20Side-red?style=flat-square&logo=target" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Game_Development-blue?style=flat-square&logo=unity" />
+</p>
 
-#### My Skills
+---
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=Laragon&logoColor=white" />
-<img src="[![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)](#)" />
+### 🔭 Currently Working On
+- 🎮 Developing **Kelompok 3** 2D Game Project in Unity.
+- 🛡️ Analyzing Cyber Security threats and MITRE ATT&CK Framework.
+- 🥋 Training hard as a Taekwondo Athlete.
 
-<!-- #### My Github Stats
-![Relyoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Relyoo&show_icons=true&theme=synthwave) -->
+### 🌱 Tech Stack & Tools
 
+#### 💻 Programming & Frameworks
+<p align="left">
+  <img src="https://img.shields.io/badge/GoLang-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+#### 🎮 Game Dev & Design
+<p align="left">
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+---
+
+### 👾 Activity Graph
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Relyoo/Relyoo/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Relyoo/Relyoo/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Relyoo/Relyoo/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+---
 
-<!-- ![My Skills](https://skillicons.dev/icons?i=html,js,css,php,mysql,bootstrap,laravel,laragon) -->
-<!--
-**Relyoo/Relyoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect with Me
+<p align="left">
+<a href="https://instagram.com/mhmmdfanny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mhmmdfanny" height="30" width="40" /></a>
+</p>
