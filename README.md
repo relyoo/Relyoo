@@ -15,8 +15,7 @@
 
 - 🎮 Developing 2D Game Project in Unity.
 - 🛡️ Analyzing Cyber Security threats and MITRE ATT&CK Framework.
-- 🥋 Training hard as a Taekwondo Athlete.
-
+- 🏅 Certified Junior Programmer by **BNSP Indonesia**.
 ### 🌱 Tech Stack & Tools
 
 #### 💻 Programming & Frameworks
